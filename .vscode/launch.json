@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "LivroDeReceitas.API",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/src/LivroDeReceitas.API/LivroDeReceitas.API.csproj"
+    }
+  ]
+}
