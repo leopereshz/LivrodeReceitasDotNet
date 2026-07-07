@@ -1,5 +1,12 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="src/LivroDeReceitas.API/LivroDeReceitas.API.csproj" />
+  <Folder Name="/src/Backend/">
+    <Project Path="src/Backend/LivroDeReceitas.Application/LivroDeReceitas.Application.csproj" />
+    <Project Path="src/Backend/LivroDeReceitas.Domain/LivroDeReceitas.Domain.csproj" />
+    <Project Path="src/Backend/LivroDeReceitas.Infrastructure/LivroDeReceitas.Infrastructure.csproj" />
+	<Project Path="src/Backend/LivroDeReceitas.API/LivroDeReceitas.API.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/LivroDeReceitas.Communication/LivroDeReceitas.Communication.csproj" />
+    <Project Path="src/Shared/LivroDeReceitas.Exception/LivroDeReceitas.Exception.csproj" />
   </Folder>
 </Solution>
