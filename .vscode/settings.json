@@ -1,1 +1,21 @@
-{}
+{
+  "dotnet.automaticallySyncWithActiveItem": true,
+  "dotnet.defaultSolution": "LivroDeReceitas.slnx",
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "LivroDeReceitas",
+      "database": "livro_receitas",
+      "username": "livro_user",
+      "password": "livro_password"
+    }
+  ]
+}

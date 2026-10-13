@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/src/LivroDeReceitas.API/LivroDeReceitas.API.csproj",
+        "${workspaceFolder}/src/Backend/LivroDeReceitas.API/LivroDeReceitas.API.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary;ForceNoAlign"
       ],
